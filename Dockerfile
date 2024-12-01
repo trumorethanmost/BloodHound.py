@@ -1,4 +1,4 @@
-FROM python:3.7-alpine
+FROM python:3.11.7-alpine
 LABEL maintainer h4rm0ny
 WORKDIR /bloodhound-data
 VOLUME /bloodhound-data
